@@ -15,7 +15,7 @@
 <br/>
 
 <div>
-  <img height="12" alt="next.js" src="https://github.com/user-attachments/assets/9fa80eba-91d9-41b0-b863-5d0c75bb1f57">&nbsp;&nbsp;
+  <img height="28" alt="next.js" src="https://github.com/user-attachments/assets/0e0af53a-8a6a-41bb-8391-b383e4cafcaf">&nbsp;&nbsp;
   <img height="20" alt="next.js" src="https://github.com/user-attachments/assets/e1e5a05a-a193-424f-8c4d-9c05f4bb8aba">&nbsp;&nbsp;
   <img height="20" alt="next.js" src="https://github.com/user-attachments/assets/48e08af3-be6d-4c8a-9e1b-6fefc368cec9">&nbsp;&nbsp;
   <img height="20" alt="next.js" src="https://github.com/user-attachments/assets/6b89f0b5-bb98-460a-8013-72adc93fd5b6">&nbsp;&nbsp;
